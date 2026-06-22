@@ -2,7 +2,7 @@ name: My Github Workflow
 on:
   push:
    branches:
-    - main
+     - main
 
 env:
   PROJECT_NAME: githubactions-demo
